@@ -17,18 +17,26 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Login
 ![Login](readme_img/login.png)
 
+## Home
 ![Home](readme_img/home.png)
 
+## Search
 ![Search](readme_img/search.png)
 
+## Add Meal or Issue
 ![Add Meal or Issue](readme_img/add.png)
 
+## Example Meal
 ![Example Meal](readme_img/example_meal.png)
 
+##Example Issue
 ![Example Issue](readme_img/example_issues.png)
 
+## Most likely Ingredients
 ![Most likely Ingredients](readme_img/ingredients.png)
 
+## Account
 ![Account](readme_img/personal.png)
