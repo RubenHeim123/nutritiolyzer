@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Example Meal
 ![Example Meal](readme_img/example_meal.png)
 
-##Example Issue
+## Example Issue
 ![Example Issue](readme_img/example_issues.png)
 
 ## Most likely Ingredients
